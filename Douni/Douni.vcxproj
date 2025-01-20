@@ -102,6 +102,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GLCore.cpp" />
     <ClCompile Include="TouchManager.cpp" />
     <QtRcc Include="Douni.qrc" />
     <QtUic Include="Douni.ui" />
@@ -121,6 +122,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GLCore.h" />
     <ClInclude Include="LAppAllocator.hpp" />
     <ClInclude Include="LAppDefine.hpp" />
     <ClInclude Include="LAppDelegate.hpp" />

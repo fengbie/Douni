@@ -76,6 +76,9 @@
     <ClCompile Include="TouchManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GLCore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LAppAllocator.hpp">
@@ -112,6 +115,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TouchManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLCore.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
